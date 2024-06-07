@@ -2,6 +2,8 @@
 
 A scheduling desktop user interface application.
 
+![App UI](https://imgur.com/Vk2BX0v.jpg)
+
 ## Table of Contents
 
 - [Overview](#overview)

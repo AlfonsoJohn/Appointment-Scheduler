@@ -1,4 +1,4 @@
-# Appointment Scheduler App
+# Appointment Scheduler Application
 
 A scheduling desktop user interface application.
 
